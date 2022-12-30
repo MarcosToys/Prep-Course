@@ -1,0 +1,12 @@
+*Variables.- Es un valor para almacenar informacion que usaras despues dentro de Js con esto puedes asigar una variable con 'var' y asignarle un valor, tambien existe otras formas de declarar variables que son 'let' y 'const' en este caso 'const' es una variable que no se podra cambiar y 'let' es similar a 'var' pero actua diferente.
+
+*Strings.- Son cualquier texto entre en comillas sencillas o dobles.
+
+*Funciones.- Las funciones son muy importantes en Js ya que con ellas podemos invocar metodos o acciones, con las funciones puedes calcular, cambiarlas o hacer algo con ello.
+
+-argumentos: Son las variables que van dentro de la funcion y puedes usar multiples argumentos.
+-return.- Es retornar a la linea de codigo para que se repita el ciclo (retorna un valor).
+
+*Declaraciones if.- Es una condicional (si).
+
+*Valores Boleanos.- Esto tiene dos significados dentro de Js si es verdadero o falso.
