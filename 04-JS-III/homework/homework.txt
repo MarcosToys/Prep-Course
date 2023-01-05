@@ -1,0 +1,1 @@
+*Array: Es un contenedor de almacenamiento para coleccionar datos, en este caso serian cadenas, numeros o boleanos separados por comas y puedes acceder a esos elementos cuando lo desees.

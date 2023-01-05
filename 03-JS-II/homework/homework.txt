@@ -1,0 +1,4 @@
+*For: Es para ejecutar bucles, evaluando expresiones una y otra vez hasta que devuelve lo que buscamos o se detiene despues de cierto tiempo, esta incorporado por tres declaraciones y separadas con punto y coma, las cuales son la variable, expresion condicional y el incremento de variable.
+*&&: Es un operador logico (AND), esta evalua ambas expresiones y devolvera verdadero si ambas expresiones son true, de lo contrario si uno o ambas expresiones son falso, este operador devolvera false.
+*||: Es un operador logico (OR), devuelve true si una o ambas expresiones es true, devuelve false si ambas expresiones son false.
+*!: El ultimo operador logico es NOT, este operador devolvera el valor booleano opuesto de lo que se le pasa.
