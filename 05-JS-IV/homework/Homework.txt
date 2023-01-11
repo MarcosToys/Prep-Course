@@ -1,0 +1,13 @@
+*Objetos: Es una coleccion de propiedades, y una propiedad es una asociacion entre nombre (o clave) y un valor.
+
+*Propiedades: Es una variable adjunta al objeto, es decir que las propiedades de un objeto basicamente son lo mismo que las variables, excepeto por el nexo con el objeto. Las propiedades de un objeto definen las caracteristicas de un objeto y accedes a sus propiedades de un objeto con una notacion simple de puntos "objecName.propertyName".
+
+*Metodos: Un metodo es una funcion la cual es propiedad de un objeto, es decir que las funciones guardadas en un objeto se denominan metodos.
+
+*Bucle "for...in": Este bucle es para iterar sobre todas la propiedades enumerbles de un objeto (iterar sobnre cada par clave-valor en nuestro objeto), la sintaxis comienza entre parentesis declaramos una variable, la palabra "in" y el nombre del objeto.
+
+*Notacion de puntos vs Notacion de corchetes: La notación de puntos y la notación de corchetes son dos formas diferentes de acceder a los miembros de un objeto en JavaScript.
+La notación de puntos se utiliza para acceder a un miembro de un objeto utilizando el nombre del miembro. Por ejemplo, si tienes un objeto llamado "obj" con un miembro llamado "prop", puedes acceder a ese miembro utilizando la notación de puntos de la siguiente manera: "obj.prop".
+La notación de corchetes se utiliza para acceder a un miembro de un objeto utilizando una expresión entre corchetes. Esta expresión puede ser una variable que contenga el nombre del miembro como una cadena, o puede ser una expresión que evalúa a una cadena. Por ejemplo, si tienes un objeto llamado "obj" con un miembro llamado "prop", puedes acceder a ese miembro utilizando la notación de corchetes de la siguiente manera: "obj["prop"]" o "obj[var_with_prop_name]".
+La notación de puntos solo permite acceder a miembros con nombres que sean válidos como identificadores de JavaScript, mientras que la notación de corchetes permite acceder a cualquier miembro, incluso aquellos con nombres que no son válidos como identificadores.
+Sin embargo, generalmente se recomienda usar notación de puntos para acceder a miembros con nombres válidos y usar notación de corchetes para acceder a miembros con nombres no válidos o que se obtienen de otras fuentes (como input de usuario).
