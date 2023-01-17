@@ -1,0 +1,3 @@
+Prototype: Son un mecanismo de herencia utilizado para crear objetos nuevos a partir de otros objetos existentes. Cada objeto en javascript tiene una propiedad especial llamada "prototype", que apunta a otro objeto. Cualquier propiedad o método que se agregue al prototype de un objeto estará disponible para todas las instancias de ese objeto.
+
+*Clases (Constructores): Las clases son una forma de organizar y estructurar el código mediante la creación de objetos con un comportamiento y propiedades similares. Se pueden pensar como plantillas o moldes para crear objetos con características específicas.
